@@ -75,3 +75,23 @@ Visual Studio Code
 These constructors allow one or more parameters to have default values. When an object is created, if no argument is provided for these parameters, the default values are used. This feature combines the flexibility of parameterized constructors with default behavior.
 
 ## Output
+![image](https://github.com/user-attachments/assets/758cc0da-3bbd-4561-b7a8-87117d706a3f)
+
+## Conclusion
+We learned how to use constructors with default arguments in C++.
+
+## Program 6
+## Aim
+To implement destructors.
+
+## Software used
+Visual Studio Code
+
+## Theory
+A destructor is a special member function that is automatically called when an object goes out of scope or is explicitly deleted. The destructor has the same name as the class, preceded by a tilde (~), and it has no return type or parameters. Destructors are primarily used to release resources, such as memory or file handles, ensuring that objects clean up after themselves when they are no longer needed.
+
+## Output
+![image](https://github.com/user-attachments/assets/3dcf3d14-09ed-4b08-957f-c71eb1bf37aa)
+
+## Conclusion
+We learned how to implement destructors in C++.
