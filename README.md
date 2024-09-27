@@ -27,3 +27,35 @@ Visual Studio Code
 A default constructor is a constructor that takes no parameters or has all default arguments. If no constructor is defined, C++ automatically provides a default constructor.
 
 ## Output
+![image](https://github.com/user-attachments/assets/26466de9-3aef-4d52-bbf7-852f62b68efe)
+
+## Conclusion
+We learned how to implement default constructors in C++.
+
+## Program 3
+## Aim
+To implement Parameterized constructos.
+
+## Software used
+Visual Studio Code
+
+## Theory
+A parameterized constructor lets you pass arguments when creating an object. It initializes the object's attributes with the specific values you provide. This makes it flexible, allowing for different setups based on the parameters given.
+
+## Output
+![image](https://github.com/user-attachments/assets/7337675d-9497-415b-aeb7-c35f4dda5c79)
+
+## Conclusion
+We learned how to implement parameterized constructors in C++.
+
+## Program 4
+## Aim
+To implement Copy Constructors
+
+## Software used
+Visual Studio Code
+
+## Theory
+A copy constructor creates a new object as a copy of an existing object. It takes a reference to an object of the same class as its parameter and duplicates the attributes of the given object. The copy constructor is called when an object is passed by value, returned by value, or explicitly copied. It ensures that the new object has the same state as the copied object.
+
+## Output
