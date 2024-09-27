@@ -59,3 +59,19 @@ Visual Studio Code
 A copy constructor creates a new object as a copy of an existing object. It takes a reference to an object of the same class as its parameter and duplicates the attributes of the given object. The copy constructor is called when an object is passed by value, returned by value, or explicitly copied. It ensures that the new object has the same state as the copied object.
 
 ## Output
+![image](https://github.com/user-attachments/assets/ee4119a2-c1e4-4ecd-949f-b05e7ab76fd3)
+
+## Conclusion
+We learned how to implement copy constructors in C++.
+
+## Program 5
+## Aim
+To use Constructors with default Arguments.
+
+## Software used
+Visual Studio Code
+
+## Theory
+These constructors allow one or more parameters to have default values. When an object is created, if no argument is provided for these parameters, the default values are used. This feature combines the flexibility of parameterized constructors with default behavior.
+
+## Output
